@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: HOME
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -18,9 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi I am Jwalit Panchal.
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi I am Jwalit Panchal, a graduate in Physics from the Department of Atomic Energy CBS, Mumbai, India.
+I love breaking down and analyzing the multiple facets of a question. Making mathematical models, using computers to verify them, etc. is something I always look for. Anything that involves serious mathematical considerations interests me. Some broad research areas I would love to pursue are High-Energy Physics, Quantum-technology (computation, communication), ML/AI, Self-Organised critical systems, Computational Electrodynamics (simulation-based), and Mathematical Physics. Please take a look at Academic Interests for more information.
+I am a football fan. I play football both electronically and physically. I love reading fiction novels; Agatha Christie is my favorite author. Dan Brown and Frederick Forsyth are also some of my favorites. I also write poetry. For more information look up Personal Interests.
