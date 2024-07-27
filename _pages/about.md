@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi I am Jwalit Panchal, a graduate in Physics from the Department of Atomic Energy CBS, Mumbai, India.
+Hi!! I am Jwalit Panchal, a graduate in Physics from the Department of Atomic Energy CBS, Mumbai, India.
 
 I love breaking down and analyzing the multiple facets of a question. Making mathematical models, using computers to verify them, etc. is something I always look for. Anything that involves serious mathematical considerations interests me. Some broad research areas I would love to pursue are High-Energy Physics, Quantum-technology (computation, communication), ML/AI, Self-Organised critical systems, Computational Electrodynamics (simulation-based), and Mathematical Physics. Please take a look at Academic Interests for more information.
 
