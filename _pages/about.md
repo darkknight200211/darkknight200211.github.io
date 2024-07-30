@@ -1,6 +1,6 @@
 ---
 layout: about
-title: HOME
+title: Home
 permalink: /
 subtitle: <a href='https://www.cbs.ac.in/'>Affiliation</a>. UM-DAE CEBS, Mumbai
 # subtitle: Affiliations. UM-DAE CEBS, Mumbai
