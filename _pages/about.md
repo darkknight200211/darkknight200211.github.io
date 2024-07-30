@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. UM-DAE CEBS, Mumbai
 
 profile:
   align: right
