@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inroduction to HRG and its Application
-description: a project with a background image
+description: Heavy-ion High energy Physics
 img: assets/img/12.jpg
 importance: 1
 category: work
