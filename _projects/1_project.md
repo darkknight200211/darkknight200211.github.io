@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Inroduction to HRG and its Application
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
