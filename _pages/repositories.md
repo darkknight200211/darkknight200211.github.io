@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: A band of ancient-foragers could be a few dozen individuals big, an agricultural settelment could be a few thousands in size, a society that wrote could organize itself into an empire and when we could produce soft-data we could organize into a global species. I believe communication and information-sharing is key to human success. And the future has never been as exciting in the 300 K years as it is now.
 nav: true
 nav_order: 5
 ---

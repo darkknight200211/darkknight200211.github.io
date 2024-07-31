@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - darkknight200211
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  # - alshedivat/al-folio
+  # - twbs/bootstrap
+  # - jekyll/jekyll
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax
+  - darkknight200211/darkknight200211.github.io
+  - darkknight200211/panchal_web1.github.io
+  
