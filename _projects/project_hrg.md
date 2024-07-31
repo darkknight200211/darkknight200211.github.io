@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-<button type="button">PDF</button>
+<button type="button"> <a href='https://assets/pdf/JWALIT_Introduction_to_HRG_and_its_applications_Report.pdf'> PDF </a> </button>
 
 How did the universe look just a millionth of second after the big-bang? Was it like the hadronic-matter, that we see around us today? Or did a more disintegrated form of matter exist then, at that temperature and pressure? What existed then? So, what is understood is that at very high temperatures (of the order of 10^13 K, i.e., 160 MeV) and baryonic density, hadronic matter disintegrated into what is called Quark-Gluon Plasma (QGP). The conditions for this matter to exist are so extreme that untill recently it existed only in two places: 1) after the big-bang and 2) in the core of neutron-stars. In the QGP one cannot find hadrons, i.e., baryons (like protons, neutrons, etc) and mesons (pions, kaons, etc).
 
