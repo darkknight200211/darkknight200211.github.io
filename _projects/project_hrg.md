@@ -6,6 +6,7 @@ img: assets/img/project_hrg.jpg
 importance: 1
 category: work
 related_publications: true
+# url_pdf: assets/pdf/JWALIT_Introduction_to_HRG_and_its_applications_Report.pdf
 ---
 
 <!-- [PDF](http://127.0.0.1:4000/assets/pdf/JWALIT_Introduction_to_HRG_and_its_applications_Report.pdf)  [Slides](http://127.0.0.1:4000/assets/pdf/JWALIT_Introduction_to_HRG_and_its_applications_PPT.pdf) -->
